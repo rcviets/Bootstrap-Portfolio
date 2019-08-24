@@ -35,3 +35,7 @@ p {
 .copy {
     text-align: center;
 }
+.navbar sticky-bottom navbar-light bg-light {
+    position: fixed;
+    bottom: 0px;
+}
