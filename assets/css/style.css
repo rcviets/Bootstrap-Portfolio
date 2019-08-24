@@ -1,0 +1,14 @@
+.header {
+    background-color: white;
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: bold;
+}
+.a:link {
+    text-decoration: none;
+    color: grey;
+}
