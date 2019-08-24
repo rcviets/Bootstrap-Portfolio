@@ -12,3 +12,13 @@
     text-decoration: none;
     color: grey;
 }
+.title {
+    background-color: white;
+    position: relative;
+    top: 10px;
+    
+}
+h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
