@@ -27,10 +27,8 @@ img {
     margin: 0 auto;
     padding: 10px;
 }
-.copy {
-    text-align: center;
-}
-.navbar sticky-bottom navbar-light bg-light {
-    position: fixed;
-    bottom: 0px;
+.footer-copyright {
+    color: white;
+    border-top: 2px;
+    border-color: #4aaaa5;
 }
