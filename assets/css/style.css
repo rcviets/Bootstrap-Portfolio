@@ -29,6 +29,5 @@ img {
 }
 .footer-copyright {
     color: white;
-    border-top: 2px;
-    border-color: #4aaaa5;
+    border-top: 5px solid #4aaaa5;
 }
